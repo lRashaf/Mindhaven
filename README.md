@@ -8,12 +8,12 @@ Mental Wellness Platform | Built with React + Tailwind CSS + Firebase
 ## 🖼 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./assets/homepage.png)
+![Homepage](./src/assets/homepage.png)
 
 ---
 
 ### 🧾 Booking Page
-![Booking](./assets/booking.png)
+![Booking](./src/assets/booking.png)
 
 
 ## 🌐 Live Site
